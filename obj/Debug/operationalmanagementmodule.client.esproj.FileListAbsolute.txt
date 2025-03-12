@@ -1,0 +1,1 @@
+C:\Users\grise\source\repos\OperationalManagementModule\operationalmanagementmodule.client\obj\Debug\operationalmanagementmodule.client.esproj.CoreCompileInputs.cache
